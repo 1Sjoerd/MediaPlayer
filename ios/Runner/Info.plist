@@ -5,7 +5,10 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
+		<string>fetch</string>
 	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Your custom message for microphone access request</string>
 	<key>CFBundleDevelopmentRegion</key>
